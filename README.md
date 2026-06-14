@@ -11,9 +11,11 @@
 <table>
   <tr>
     <th>
-      $\color{#AAE550}{\textsf{ Feel free to interact ┆  I'm often off-tab and may miss messages }}$ <br>
-      $\color{#E1E6E7}{\textsf{ Please don't be weird and have basic common sense }}$ <br>
-      $\color{#AAE550}{\textsf{ I love watermelons. This is very important information btw ┆ }}$ <br>
+      $\color{#AAE550}{\textsf{ Feel free to interact ┆  I'm often off-tab and may miss messages . . . }}$ <br>
+      $\color{#E1E6E7}{\textsf{ Please don't be weird and have basic common sense -  FUCK ICE }}$ <br>
+      $\color{#AAE550}{\textsf{ I love watermelons. This is very important information btw AND I LOVE CATS ┆ }}$ <br>
+      $\color{#E1E6E7}{\textsf{ . . . I don't feel comfortable speaking up first, but I love being social i swear }}$ <br>
+      
 </th>
 </tr>
 </table>
