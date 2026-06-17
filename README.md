@@ -15,6 +15,8 @@
       $\color{#bed050}{\textsf{ Please don't be weird and have basic common sense -  FUCK ICE }}$ <br>
       $\color{#d1bfc0}{\textsf{ I love watermelons. This is very important information btw AND I LOVE CATS ┆ }}$ <br>
       $\color{#bed050}{\textsf{ . . . I don't feel comfortable speaking up first, but I love being social i swear }}$ <br>
+     $\color{#d1bfc0}{\textsf{ Don’t copy my skins I’ll fucking know. Don't copy others either be creative. }}$ <br>
+
       
 </th>
 </tr>
