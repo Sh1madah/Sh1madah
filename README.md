@@ -12,7 +12,7 @@
 <table>
   <tr>
     <th>
-      $\color{#e2e4ec}{\textsf{ I have a bunch of nicknames, but I prefer Hans or Sandia  }}$ <br>
+      $\color{#4172a9}{\textsf{ I have a bunch of nicknames, but I prefer Hans or Sandia  }}$ <br>
       $\color{#e2e4ec}{\textsf{ Feel free to interact! I'm usually off-tab, so w2i if I miss your message }}$ <br>
       $\color{#4172a9}{\textsf{ Making skins is the bane of my existence. I fucking hate it  }}$ <br>
       $\color{#e2e4ec}{\textsf{ My sense of humor can be pretty dark, so please keep that in mind   }}$ <br>
