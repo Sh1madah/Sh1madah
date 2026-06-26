@@ -12,11 +12,12 @@
 <table>
   <tr>
     <th>
-      $\color{#e2e4ec}{\textsf{ Feel free to interact ┆  I'm often off-tab and may miss messages . . . }}$ <br>
-      $\color{#4172a9}{\textsf{ Please don't be weird and have basic common sense -  FUCK ICE }}$ <br>
-      $\color{#e2e4ec}{\textsf{ I love watermelons. This is very important information btw AND I LOVE CATS ┆ }}$ <br>
-      $\color{#4172a9}{\textsf{ . . . I don't feel comfortable speaking up first, but I love being social i swear }}$ <br>
-     $\color{#e2e4ec}{\textsf{ Don’t copy my skins I’ll fucking know. Don't copy others either be creative. }}$ <br>
+      $\color{#e2e4ec}{\textsf{ I have a bunch of nicknames, but I prefer Hans or Sandia  }}$ <br>
+      $\color{#e2e4ec}{\textsf{ Feel free to interact! I'm usually off-tab, so w2i if I miss your message }}$ <br>
+      $\color{#4172a9}{\textsf{ Making skins is the bane of my existence. I fucking hate it  }}$ <br>
+      $\color{#e2e4ec}{\textsf{ My sense of humor can be pretty dark, so please keep that in mind   }}$ <br>
+      $\color{#4172a9}{\textsf{ My English isn't the best lol. I'm a native Spanish speaker 〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜 }}$ <br>
+     $\color{#e2e4ec}{\textsf{ Too lazy to decorate this damn profile. That's all you need to know. Basic DNI applies }}$ <br>
 
       
 </th>
